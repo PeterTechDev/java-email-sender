@@ -1,6 +1,5 @@
 package com.petertech.emailSender.models;
 
-import com.ms.email.enums.StatusEmail;
 import com.petertech.emailSender.enums.StatusEmail;
 import lombok.Data;
 
